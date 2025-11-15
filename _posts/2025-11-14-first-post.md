@@ -12,8 +12,8 @@ descripation: Today I'll be doing step by step of how to do makeup
 ## Summary 
   This will be giving you a break down 
  
-  ## Content 
-  Welcome to my website!
+## Content 
+  Welcome to my website! This is going to be about a break down of how you do natural makeup 
 
 <details>
 <summary>dont click me</summary>
