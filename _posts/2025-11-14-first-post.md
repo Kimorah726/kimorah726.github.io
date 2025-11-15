@@ -12,7 +12,6 @@ descripation: Today I'll be doing step by step of how to do makeup
 ## Summary 
   This will be giving you a break down 
   ## Content 
-  
   Welcome to my website!
 <details>
 <summary>dont click me</summary>
